@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "741123457861",
+    "project_id": "siagaku-eacc8",
+    "storage_bucket": "siagaku-eacc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741123457861:android:febf03f68be8c970e1342c",
+        "android_client_info": {
+          "package_name": "com.example.project_asli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741123457861-u68tpfn8hb5m4gena1d32l0cjtbhuo65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQN_utym13JmpmJtKI-TaoOt4poq-ta4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741123457861-u68tpfn8hb5m4gena1d32l0cjtbhuo65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741123457861-91as3arb97nirkrvovndtfl01hqhidvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectAsli"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741123457861:android:df4b6a70fcf818a5e1342c",
+        "android_client_info": {
+          "package_name": "com.siagaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741123457861-0p93q8ksvepcev3tqaathdngocdeburv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siagaku",
+            "certificate_hash": "e4433b521d4f585c3d893bb3f0d0fd8f2f6ab8cb"
+          }
+        },
+        {
+          "client_id": "741123457861-u68tpfn8hb5m4gena1d32l0cjtbhuo65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQN_utym13JmpmJtKI-TaoOt4poq-ta4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741123457861-u68tpfn8hb5m4gena1d32l0cjtbhuo65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741123457861-91as3arb97nirkrvovndtfl01hqhidvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectAsli"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
